@@ -1,3 +1,6 @@
-# MyProfile
-Hello, I'm **Mohamed bin Abbas**, I have **3 years** working as **Web Developer** .
-https://dsc.gg/devxor
+## Hi there 👋
+
+My named is Mohamed Abbas.
+
+- 💻 I’m a Full-Stack Web Developer
+- 📫 How to reach me: Discord : _i24
