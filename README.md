@@ -1,2 +1,5 @@
 # About Me
-Hello I'm <b>Mohamed Abbas</b>, I'm Wokring as Full-Stack <b>Web Developer</b> and welcome to my github page!
+Hi, I'm **Mohamed Abbas**.
+#- Back-end Developer
+#- Python, Django, Flask , ...
+#- I think that's enough 🙃
