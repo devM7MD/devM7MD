@@ -3,7 +3,7 @@ https://devm7md.xyz/
 <h1 align="center">Mohamed Abbas Elshamy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;4%2B+Years+of+Experience;Python+%26+Node.js+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;5%2B+Years+of+Experience;Python+%26+Node.js+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
