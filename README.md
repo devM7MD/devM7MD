@@ -9,7 +9,7 @@
 
 ## About Me 👨‍💻
 
-Software Developer with 5+ years of experience specializing in web applications and backend systems. I build clean, efficient solutions using Python and JavaScript ecosystems. Currently focused on web development projects with modern frameworks and cloud technologies.
+Software Developer with 6+ years of experience specializing in web applications and backend systems. I build clean, efficient solutions using Python and JavaScript ecosystems. Currently focused on web development projects with modern frameworks and cloud technologies.
 
 ## Skills & Tools 🛠️
 
